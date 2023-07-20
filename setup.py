@@ -19,7 +19,7 @@ setup(
     package_dir={"steg": "steg"},
     entry_points={"console_scripts": ["steg=steg._steg:run"]},
     author='Andrew Scott',
-    url='https://github.com/beatsbears/steg',
+    url='https://github.com/hammersleyfutures/steg',
     packages=find_packages(),
     license='MIT License',
     install_requires=[
